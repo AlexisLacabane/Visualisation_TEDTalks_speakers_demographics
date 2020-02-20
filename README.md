@@ -3,9 +3,9 @@ TED Talks are influential videos from expert speakers :bowtie: on education, bus
 
 ## Tools
 
-![](/Media/P_logo.jpeg)
-![](/Media/T_logo.jpeg)
-![](/Media/Spyder_logo.jpg)
+![](/Media/P_logo.png)
+![](/Media/T_logo.png)
+![](/Media/Spyder_logo.png)
 
 ## Purpose
 Create a pipeline in :file_folder: **Code.py** to optimise the following:
